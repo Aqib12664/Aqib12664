@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full stack Web Developer
 ------------------------
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 I've been doing web development for about a year now. I'm continuously learning and expanding my skill set every day
 
 * 🌍  I'm based in Pakistan
